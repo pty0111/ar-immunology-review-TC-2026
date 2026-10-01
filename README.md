@@ -19,9 +19,9 @@ The datasets used in this repo are available at the following locations:
 
 | Dataset Name             | Data accession                        | Publication                                                           |
 |------------------------|------------------------|------------------------|
+| TCp                    | GSE316304                             | <https://www.nature.com/articles/s41586-026-10198-z>                  |
 | TC_all_LN                | GSE294005                             | <https://www.science.org/doi/10.1126/science.adp0535>                 |
 | Colonna                  | GSE312479                             | <https://www.science.org/doi/10.1126/sciimmunol.aed7439>              |
-| TCp                    | GSE316304                             | <https://www.nature.com/articles/s41586-026-10198-z>                  |
 | Sawa                     | GSE278161                             | <https://www.cell.com/immunity/fulltext/S1074-7613(26)00054-3>              |
 
 The results of integration including Seurat R object are available at [Box](https://mskcc.box.com/s/sv0hs53icqy01l5ftwy8wdkurihg2eb1).
